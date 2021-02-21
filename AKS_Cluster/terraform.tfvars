@@ -1,4 +1,4 @@
 Name = "Cloudskills-aks01"
-resourceGroup = "Dev10"
-location = "eastus2"
-keyvaultID = "/subscriptions/220284d2-6a19-4781-87f8-5c564ec4fec9/resourceGroups/Dev10/providers/Microsoft.KeyVault/vaults/sp-keyvault-cloudskills"
+resourceGroup = "rg-KC-CloudSkillsTF"
+location = "northeurope"
+keyvaultID = "/subscriptions/fcf403b6-3f42-486f-8a24-5b8033f163e5/resourceGroups/rg-KC-CloudSkillsTF/providers/Microsoft.KeyVault/vaults/sp-keyvault-cloudskills"

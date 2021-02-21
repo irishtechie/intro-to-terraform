@@ -2,9 +2,9 @@ function servicePrinicpalKeyvault {
     [cmdletbinding()]
     param(
         [string]$name = "sp-keyvault-cloudskills",
-        [string]$resourceGroup = "Dev10",
-        [string]$location = "eastus2",
-        [string]$clientID = ""
+        [string]$resourceGroup = "rg-KC-CloudSkillsTF",
+        [string]$location = "northeurope",
+        [string]$clientID = "b6093da6-1f93-47c1-a47c-1eb26eecabf4"
     )
 
     try {
